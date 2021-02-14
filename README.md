@@ -44,3 +44,12 @@ $ adb connect IP_DO_SEU_EMULADOR:5555
 $ yarn android
 
 ```
+
+>**TESTE UNITÁRIOS**
+
+Rode um dos comandos
+
+```
+$ yarn test ou yarn test:coverage
+
+```
